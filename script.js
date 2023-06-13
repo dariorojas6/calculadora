@@ -62,6 +62,7 @@ function multiplicacion() {
       document.getElementById("resultado").innerHTML = "El resultado es: " + resultado
 
       document.getElementById("numero1").value = "";
+      document.getElementById("numero2").value = "";
      
    } else {
       alert("Ingrese un numero")
@@ -91,3 +92,4 @@ function binarioaDecimal() {
    
   
    }
+
